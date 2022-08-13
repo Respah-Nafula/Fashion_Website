@@ -2,3 +2,11 @@
     padding: 0%;
     margin :0%;
 }
+#navbar {
+    list-style: none;
+    display: inline-flex;
+}
+.container a{
+    margin-left: 30%;
+}
+
