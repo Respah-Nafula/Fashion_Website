@@ -5,8 +5,16 @@
 #navbar {
     list-style: none;
     display: inline-flex;
+    justify-content: space-between;
+    margin-left: 28%;
 }
-.container a{
-    margin-left: 30%;
+.search{
+    margin-left: 10%;
 }
-
+.search input[type=text]{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    font-size: 17px;
+}
